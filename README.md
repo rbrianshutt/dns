@@ -1,16 +1,16 @@
-<h1>Lorem ipsum </h1>
+<h1>DNS </h1>
 
-![](https://github.com/rbrianshutt/active_directory/blob/main/Active%20Directory%202.0/active-directory-logo.png)
+![]()
 
 
 <h2>Description</h2>
-Lorem ipsum
+This project demonstrates the configuration and testing of DNS A-Records, CNAME records, and local DNS cache behavior within an Active Directory environment. The lab involves setting up DNS records on a domain controller (DC-1) and validating network connectivity from a client machine (CLIENT-1). Through practical exercises, you will learn how to create and modify DNS records, manage DNS resolution, and troubleshoot DNS caching issues.
 <br />
 
 <h2>Techonologies Used</h2>
 
 - <b>Microsoft Azure Virtual Machines</b>
-- <b>Active Directory Domain Services</b>
+- <b>Active Directory</b>
 - <b>DNS Manager</b>
 - <b>Remote Desktop</b>
 - <b>Powershell</b>
@@ -22,12 +22,9 @@ Lorem ipsum
 
 <h2>Overview:</h2>
 
-- <b>Lorem ipsum</b> 
-- <b>Lorem ipsum</b>
-- <b>Lorem ipsum</b>
-- <b>Lorem ipsum</b>
-- <b>Lorem ipsum</b>
-- <b>Lorem ipsum</b>
+- <b>A-Record Exercise</b> 
+- <b>Local DNS Cache Exercise</b>
+- <b>CNAME Record Exercise</b>
 
 <h2>Program Walk-Through:</h2>
 
