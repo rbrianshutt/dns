@@ -32,7 +32,7 @@ Connect/log into DC-1 as your domain admin account (mydomain.com\jane_admin) <br
 ![](https://github.com/rbrianshutt/dns/blob/main/DNS/1%20Connect%20to%20dc1%20vm.PNG)
 <br />
 
-Connect/log into Client-1 as an admin (mydomain\jane_admin) <br/>
+Connect/log into CLIENT-1 as an admin (mydomain\jane_admin) <br/>
 
 ![](https://github.com/rbrianshutt/dns/blob/main/DNS/2%20Connect%20to%20client1%20vm.PNG)
 <br />
