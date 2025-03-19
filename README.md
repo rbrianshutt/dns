@@ -1,4 +1,4 @@
-<h1>Practicing with DNS </h1>
+<h1>DNS Configuration and Troubleshooting Lab </h1>
 
 <h2>Description</h2>
 This project demonstrates the configuration and testing of DNS A-Records, CNAME records, and local DNS cache behavior within an Active Directory environment. The lab involves setting up DNS records on a domain controller (DC-1) and validating network connectivity from a client machine (CLIENT-1). Through practical exercises, you will learn how to create and modify DNS records, manage DNS resolution, and troubleshoot DNS caching issues.
