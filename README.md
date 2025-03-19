@@ -59,7 +59,7 @@ Notice the DNS settings for DC-1 and CLIENT-1 <br/>
 <br />
 
 Right click the whitespace  <br/>
-Select New Host(A or AAAA) <br/>
+Select New Host (A or AAAA) <br/>
 
 ![](https://github.com/rbrianshutt/dns/blob/main/DNS/5.2%20right%20click%20new%20host%20a.png)
 <br />
