@@ -156,4 +156,6 @@ Back on CLIENT-1, when we ping "search" it comes back with Google's IP address  
 
 When we run "nslookup search", it points to IP addresses associated with Google <br/>
 
+![](https://github.com/rbrianshutt/dns/blob/main/DNS/15%20nslookup%20search.PNG)
+<br />
 
